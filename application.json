@@ -1,0 +1,45 @@
+{
+  "pages": [
+    {
+      "id": "Landing Page",
+      "isDefault": true
+    },
+    {
+      "id": "User page",
+      "isDefault": false
+    },
+    {
+      "id": "Create post",
+      "isDefault": false
+    },
+    {
+      "id": "View posts",
+      "isDefault": false
+    },
+    {
+      "id": "Update posts",
+      "isDefault": false
+    },
+    {
+      "id": "Delete posts",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#C2DAF0",
+  "icon": "euros",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
