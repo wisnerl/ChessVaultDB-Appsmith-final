@@ -39,6 +39,10 @@
     {
       "id": "AllGames",
       "isDefault": false
+    },
+    {
+      "id": "AllUsers",
+      "isDefault": false
     }
   ],
   "viewMode": false,

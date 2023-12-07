@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "User page",
-    "slug": "user-page",
+    "name": "AllUsers",
+    "slug": "allusers",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 480,
+          "bottomRow": 660,
           "containerStyle": "none",
           "snapRows": 63,
           "parentRowSpace": 1,
@@ -28,20 +28,18 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "User page_GetAllStats",
-              "name": "GetAllStats",
+              "id": "AllUsers_getAllUsers",
+              "name": "getAllUsers",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [
-                "Input1.text"
-              ],
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "User page",
+        "id": "AllUsers",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -52,5 +50,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656e1d8cbac0794996dc462a_656e207fbac0794996dc4631"
+  "gitSyncId": "65710b2f01ddcb6ccbcf41a9_6571221c01ddcb6ccbcf41d8"
 }

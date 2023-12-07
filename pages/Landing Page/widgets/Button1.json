@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 17,
     "widgetName": "Button1",
-    "onClick": "{{navigateTo('User page', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('AllUsers', {}, 'SAME_WINDOW');}}",
     "buttonColor": "#d4d4d8",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
