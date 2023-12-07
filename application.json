@@ -35,6 +35,10 @@
     {
       "id": "TopAdvertisers",
       "isDefault": false
+    },
+    {
+      "id": "AllGames",
+      "isDefault": false
     }
   ],
   "viewMode": false,

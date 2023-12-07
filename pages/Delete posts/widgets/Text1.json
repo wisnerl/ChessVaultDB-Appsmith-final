@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 1,
-    "bottomRow": 14,
+    "topRow": 2,
+    "bottomRow": 9,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 19.296875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 25,
+    "leftColumn": 24,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -30,7 +30,7 @@
     "text": "Delete Post",
     "key": "0fc9zilhvb",
     "isDeprecated": false,
-    "rightColumn": 39,
+    "rightColumn": 49,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "y77ungh5jo",
@@ -48,11 +48,11 @@
     "isLoading": false,
     "mobileTopRow": 3,
     "responsiveBehavior": "fill",
-    "originalTopRow": 1,
+    "originalTopRow": 2,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 24,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 14,
+    "originalBottomRow": 9,
     "fontSize": "3rem",
     "minDynamicHeight": 4
 }

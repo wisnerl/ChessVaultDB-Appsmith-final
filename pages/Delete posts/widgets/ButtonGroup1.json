@@ -9,15 +9,15 @@
         "click",
         "submit"
     ],
-    "topRow": 16,
-    "bottomRow": 21,
+    "topRow": 13,
+    "bottomRow": 18,
     "parentRowSpace": 10,
     "type": "BUTTON_GROUP_WIDGET",
     "groupButtons": {
         "groupButtonilmn69sc63": {
             "onClick": "{{navigateTo('Update posts', {}, 'SAME_WINDOW');}}",
             "buttonType": "SIMPLE",
-            "buttonColor": "#93c5fd",
+            "buttonColor": "#fde047",
             "iconName": "edit",
             "widgetId": "w8yp95hm2z",
             "menuItems": {},
@@ -46,7 +46,7 @@
             "onClick": "{{navigateTo('Create post', {}, 'SAME_WINDOW');}}",
             "buttonType": "SIMPLE",
             "iconName": "add",
-            "buttonColor": "#d4d4d8",
+            "buttonColor": "#22c55e",
             "widgetId": "",
             "menuItems": {},
             "index": 1,
@@ -87,7 +87,7 @@
     "orientation": "horizontal",
     "isDeprecated": false,
     "rightColumn": 53,
-    "widgetId": "8eghd5y3vx",
+    "widgetId": "rsi4sntfrb",
     "minWidth": 450,
     "isVisible": true,
     "version": 1,
@@ -98,9 +98,9 @@
     "mobileTopRow": 6,
     "responsiveBehavior": "fill",
     "childStylesheet": {"button": {"buttonColor": "{{appsmith.theme.colors.primaryColor}}"}},
-    "originalTopRow": 16,
+    "originalTopRow": 12,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 2,
-    "originalBottomRow": 21,
+    "originalBottomRow": 17,
     "buttonVariant": "PRIMARY"
 }

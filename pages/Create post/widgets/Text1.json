@@ -9,7 +9,7 @@
         "label"
     ],
     "topRow": 2,
-    "bottomRow": 15,
+    "bottomRow": 9,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 19.296875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 27,
+    "leftColumn": 25,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -30,7 +30,7 @@
     "text": "Add Post",
     "key": "0fc9zilhvb",
     "isDeprecated": false,
-    "rightColumn": 41,
+    "rightColumn": 49,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "nlseg3ugjd",
@@ -52,7 +52,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 24,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 15,
+    "originalBottomRow": 9,
     "fontSize": "3rem",
     "minDynamicHeight": 4
 }

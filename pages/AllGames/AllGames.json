@@ -1,35 +1,45 @@
 {
   "unpublishedPage": {
-    "name": "Landing Page",
-    "slug": "landing-page",
+    "name": "AllGames",
+    "slug": "allgames",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 940,
+          "bottomRow": 660,
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 63,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 1292,
-          "dynamicTriggerPathList": [],
+          "minHeight": 650,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "AllGames_getAllGames",
+              "name": "getAllGames",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Landing Page",
+        "id": "AllGames",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -40,5 +50,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6568c26114b771408e19dd3b_6568c26114b771408e19dd3d"
+  "gitSyncId": "65710b2f01ddcb6ccbcf41a9_6571159001ddcb6ccbcf41cf"
 }

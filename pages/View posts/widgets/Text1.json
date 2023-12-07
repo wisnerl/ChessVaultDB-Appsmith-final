@@ -9,7 +9,7 @@
         "label"
     ],
     "topRow": 3,
-    "bottomRow": 16,
+    "bottomRow": 10,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 19.296875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 27,
+    "leftColumn": 24,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -30,7 +30,7 @@
     "text": "View Posts",
     "key": "0fc9zilhvb",
     "isDeprecated": false,
-    "rightColumn": 41,
+    "rightColumn": 48,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "327rtfhgnv",
