@@ -22,12 +22,13 @@
     "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 3,
     "dynamicBindingPathList": [{"key": "borderRadius"}],
-    "text": "<-- Homepage",
+    "text": "Homepage",
     "isDisabled": false,
     "key": "wp93gbj2kv",
     "isDeprecated": false,
     "rightColumn": 14,
     "isDefaultClickDisabled": true,
+    "iconName": "arrow-left",
     "widgetId": "25p0uroq9d",
     "minWidth": 120,
     "isVisible": true,
@@ -43,5 +44,6 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "buttonVariant": "PRIMARY",
+    "iconAlign": "left",
     "placement": "CENTER"
 }
