@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "View posts",
-    "slug": "view-posts",
+    "name": "Game",
+    "slug": "game",
     "layouts": [
       {
         "viewMode": false,
@@ -13,33 +13,22 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 840,
+          "bottomRow": 680,
           "containerStyle": "none",
-          "snapRows": 83,
+          "snapRows": 80,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 850,
+          "minHeight": 820,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "View posts_getPosts",
-              "name": "getPosts",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "View posts",
+        "id": "Game",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -50,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656e1d8cbac0794996dc462a_6570bf1eda1ee419f8755586"
+  "gitSyncId": "657103980bb1f72c816f0030_657105b30bb1f72c816f004f"
 }

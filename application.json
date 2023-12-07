@@ -23,6 +23,18 @@
     {
       "id": "Delete posts",
       "isDefault": false
+    },
+    {
+      "id": "Game",
+      "isDefault": false
+    },
+    {
+      "id": "TopGames",
+      "isDefault": false
+    },
+    {
+      "id": "TopAdvertisers",
+      "isDefault": false
     }
   ],
   "viewMode": false,
